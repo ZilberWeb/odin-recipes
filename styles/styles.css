@@ -1,0 +1,53 @@
+body {
+background: #BBC5AA;
+font-family: 'Nunito', sans-serif;
+}
+/* Wrapper */
+
+.wrapper {
+background: #ffffff;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+/* Headers */
+h1 {
+font-size: 45px;
+font-weight: 800;
+text-align: center;
+
+}
+
+.recipes-list {
+width: 400px;
+align-content: center;
+margin: 0 auto;
+padding-left: 160px;
+
+}
+.recipes-list-link {
+color: #4381C1;
+font-size: 36px;
+font-weight: 400;
+
+
+}
+
+.recipes-list li {
+
+font-size: 36px;
+font-weight: 800;
+
+}
+
+/* Dish Images */
+img {
+display: block;
+    width: 600px;
+    margin: 0 auto;
+
+
+}
+
+
